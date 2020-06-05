@@ -1,5 +1,6 @@
 Esta es una prueba de git
 
-Aprendiendo para Wordpress ya codificar mejor
+Aprendiendo para Wordpress y a codificar mejor. Esta es nuevo
+Esta es la linea nueva
 
 Prueba numero 2
