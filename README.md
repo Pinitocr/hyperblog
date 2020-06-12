@@ -9,5 +9,6 @@ Un blog increible para el curso de Git y GitHub en Platzi
 - El flujo de trabajo en git
 - El verdadero amor por las buenas practicas
 - Trucos muy locos de profesor
+- Creado por Leonardo Ortiz 
 
 Este README no es uno serio. Es solo de practica.
