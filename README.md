@@ -10,5 +10,7 @@ Un blog increible para el curso de Git y GitHub en Platzi
 - El verdadero amor por las buenas practicas
 - Trucos muy locos de profesor
 - Creado por Leonardo Ortiz 
+- Incluye ejemplos en Windows
+- Disponible para todas las edades
 
 Este README no es uno serio. Es solo de practica.
